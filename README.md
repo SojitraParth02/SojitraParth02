@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Parthkumar%20Sojitra&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Full%20Stack%20Developer&descSize=22&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B80F9,100:3B82F6&height=200&section=header&text=Parthkumar%20Sojitra&fontSize=50&fontColor=ffffff" width="100%" />
 
 <div align="center">
 
@@ -92,12 +92,12 @@ I've delivered end-to-end products, including a **retail POS & HRMS platform** a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Praass&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Praass&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praass&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praass&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Praass&theme=tokyonight&hide_border=true" />
 
 </div>
 
