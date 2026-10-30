@@ -42,34 +42,6 @@ I've delivered end-to-end products, including a **retail POS & HRMS platform** a
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏪 Dr.Ex: Retail Inventory, POS & HRMS Platform
-**Next.js · React · TypeScript · Node.js · Express.js · MongoDB**
-- IMEI-based inventory tracking with audit logging for product traceability
-- POS checkout, invoice generation and end-of-day Z-report workflows
-- Integrated retail and HRMS modules with secure role-based access
-
-### 🏢 Homely: Society Management & Community Platform
-**React · TypeScript · Node.js · Express.js · MongoDB**
-- 4-tier RBAC (Main Pramukh, Building Pramukh, Member, Guard) with JWT and single-device session enforcement
-- Financial ledger, billing and maintenance management, real-time chat, vehicle registry with parking quotas
-- QR-based visitor management and multi-tenant architecture with a Super Admin panel
-
-### 🌾 Kemfree Farmers: Admin Panel & Landing Website
-**React.js · Redux · React Query · Tailwind CSS · REST APIs**
-- Complete admin dashboard built from scratch: auth, protected routes, CRUD, search, filtering and dynamic tables
-- Inquiry management system tracking inquiries per product and per user
-- Redux + React Query caching to reduce redundant requests and improve load time
-- Fully responsive public landing website
-
-### 🏕️ TeamCamp: Landing Website
-**React.js · Contentful · GraphQL**
-- Reusable Contentful data models and dynamic pages powered by GraphQL
-- JSON bulk content import that cut manual setup work by 50%
-
----
-
 ## 💼 Experience
 
 | Role | Company | Period |
@@ -85,36 +57,5 @@ I've delivered end-to-end products, including a **retail POS & HRMS platform** a
 
 - **B.Tech in Information Technology**, P.P. Savani University (2023 – 2026)
 - **Diploma in Information Technology**, Bhagwan Mahavir University (2020 – 2023)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SojitraParth02&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SojitraParth02&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=SojitraParth02&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthsojitra998@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SojitraParth02)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=SojitraParth02&label=Profile%20views&color=8B80F9&style=flat" />
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
